@@ -35,4 +35,7 @@ public class BrandManager implements BrandService {
         return createdBrandResponse;
     }
 }
-//Tüm entityler için
+//Tüm entityler için Add,Update,Delete, GetAll,GetById operasyonlarını uçtan uca yazınız.
+//tamamında response-request pattern uygulanmalı
+
+//@Service, @Component, @Bean, @Repository anotasyonlarını detaylı araştırınız.IoC
